@@ -22,6 +22,8 @@ The Dataset used for this project is "IMDB Reviews" from Hugging Face Library.
 
 • Utilized the pre-trained ALBERT model and fine-tuned it on the IMDB dataset.
 
+• Achieved an model loss of 0.36.
+
 • Utilized the SHAP Library for model interpretation.
 
 • Integrated Weights and Biases (WandB) API for tracking and visualizing training metrics.
